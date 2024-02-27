@@ -54,7 +54,7 @@
     "@nestjs/cli": "10.1.18",
     "@nestjs/schematics": "9.2.0",
     "@nestjs/testing": "9.4.3",
-    "@types/amqplib": "0.10.2",
+    "@types/amqplib": "0.10.5",
     "@types/cache-manager": "4.0.3",
     "@types/cron": "2.0.1",
     "@types/ioredis": "4.28.10",
